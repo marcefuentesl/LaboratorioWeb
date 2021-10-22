@@ -122,6 +122,7 @@ export default function Login(props) {
               <Grid item>
                 <Box component={Link} to="/signup" variant="body2">
                   {"Don't have an account? Sign Up"}
+                  {process.env.REACT_APP_TEXT}
                 </Box>
               </Grid>
             </Grid>
