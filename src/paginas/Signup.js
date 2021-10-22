@@ -56,7 +56,7 @@ export default function SignUp(props) {
       console.log("error", error);
       alert(error.message);
     }
-    props.history.push("/dashboard");
+    props.history.push("/");
   };
 
   return (
