@@ -3,13 +3,12 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC0vXo7ZLUXjUZIWrx0f19jOVgW6GAOPqo",
-  authDomain: "labweb-83446.firebaseapp.com",
-  // databaseURL: "https://servicio-14be9.firebaseio.com",
-  projectId: "labweb-83446",
-  storageBucket: "labweb-83446.appspot.com",
-  messagingSenderId: "253043733975",
-  appId: "1:253043733975:web:1ef82e9fcb1f40bd7c8792"
+  apiKey: "AIzaSyAC7-ZgHHMm6ZLKydpVcQILOo5l9AqJxfU",
+  authDomain: "labweb-3d2b5.firebaseapp.com",
+  projectId: "labweb-3d2b5",
+  storageBucket: "labweb-3d2b5.appspot.com",
+  messagingSenderId: "722393566187",
+  appId: "1:722393566187:web:1c5c6cc6259b0ae42fe7ae"
 };
 
 let instance;
