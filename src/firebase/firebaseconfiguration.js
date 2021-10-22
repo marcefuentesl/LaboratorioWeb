@@ -4,6 +4,7 @@ import "firebase/compat/firestore";
 
 const firebaseConfig = {
   apiKey: "AIzaSyAC7-ZgHHMm6ZLKydpVcQILOo5l9AqJxfU",
+  authDomain: "labweb-3d2b5.firebaseapp.com",
   projectId: "labweb-3d2b5",
   storageBucket: "labweb-3d2b5.appspot.com",
   messagingSenderId: "722393566187",
